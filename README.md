@@ -15,12 +15,13 @@
 <hr>
 <h3> Social Handles </h3>
 Mail : danishexplore019@gmail.com
+<br>
  <a href="https://www.linkedin.com/in/danish-belal-6a72a91b1/">
      <img src="Images/Linkedln.png">
-     </a>  &nbsp;
+     </a>  &nbsp; &nbsp;
      <a href="https://www.instagram.com/__its_danish/">
           <img src="Images/instagram.png">
      </a>
 
 
-!
+

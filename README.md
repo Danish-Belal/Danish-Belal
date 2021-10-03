@@ -13,6 +13,8 @@
 
 
 <hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Danish-Belal&style=plastic&label=PROFILE+VIEWS" alt="Danish Belal" /> </p>
+
 <h3> Social Handles </h3>
 Mail : danishexplore019@gmail.com
 <br>

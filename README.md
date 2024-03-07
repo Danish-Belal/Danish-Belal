@@ -1,31 +1,40 @@
 ### Hi Y'all. 👋
 
-- 🔭 I’m currently working on My Codes.
-- 🌱 I’m currently learning DSA. 
-- 👯 I’m looking to collaborate on Open Source Contribution.
-- 🤔 I’m looking for help on Projects.
-- 💬 Ask me about Cpp , DSA and Technical Stuffs.
-- 😄 Pronouns: His/Him
-- ⚡ Fun fact: Gonna be Engineer😃  --> Software Engineer
+- 🔭 &nbsp; I’m currently working on **building Payment Gateway**
+- 🤝 &nbsp;  I’m looking to collaborate on Projects which excites strudents.
+- 📫 &nbsp;How to reach me , you can email me at danishexplore019@gmail.com
+- 💻 &nbsp;I am actively looking for jobs for the role of SDE.
+- 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danish-belal/)
+- 📚 &nbsp; When I am free, Family Time. 
 <br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Danish-Belal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515     ">  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-Belal&layout=compact)](https://github.com/Danish-Belal/github-readme-stats)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish-Belal&count_private=true&show_icons=true&theme=radical)](https://github.com/Danish-Belal))
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goelabhishek694&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Danish-Belal&style=plastic&label=PROFILE+VIEWS" alt="Danish Belal" /> </p>
 
-<h3> Social Handles </h3>
-Mail : danishexplore019@gmail.com
 <br>
- <a href="https://www.linkedin.com/in/danish-belal-6a72a91b1/">
-     <img src="Images/Linkedln.png">
-     </a>  &nbsp; &nbsp;
-     <a href="https://www.instagram.com/__its_danish/">
-          <img src="Images/instagram.png">
-     </a>
+
 
 ## Snack eating my Contribution Graph
 ![snake gif](https://github.com/Danish-Belal/Danish-Belal/blob/output/github-contribution-grid-snake.gif)
+
+<!-- ### 📊 Github Stats -->
+
+<div align="center">
+ 
+[![wakatime](https://wakatime.com/badge/user/8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050.svg)](https://wakatime.com/@8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Danish-Belal&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Danish-Belal&theme=dark)
+ </div>
+
 
 [![An image of @danish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danish)](https://holopin.io/@danish)

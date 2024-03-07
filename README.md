@@ -13,7 +13,7 @@
 
 [![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish-Belal&count_private=true&show_icons=true&theme=radical)](https://github.com/Danish-Belal))
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goelabhishek694&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-Belal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>
@@ -23,7 +23,9 @@
 
 
 ## Snack eating my Contribution Graph
-![snake gif](https://github.com/Danish-Belal/Danish-Belal/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Danish-Belal/Danish-Belal/blob/output/github-snake-dark.svg)
+
+
 
 <!-- ### 📊 Github Stats -->
 

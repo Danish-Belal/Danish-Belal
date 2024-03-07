@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2.5.3  # Update to the latest version
+      - uses: actions/checkout@v2  # Use the latest stable version from the v2 branch
 
       - uses: Platane/snk@master
         id: snake-gif
@@ -28,7 +28,7 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.2.1  # Update to the latest version
+      - uses: crazy-max/ghaction-github-pages@v2  # Use the latest stable version from the v2 branch
         with:
           target_branch: output
           build_dir: dist

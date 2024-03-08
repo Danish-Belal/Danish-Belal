@@ -5,7 +5,7 @@
 - 📫 &nbsp; How to reach me, you can email me at danishexplore019@gmail.com
 - 💻 &nbsp;I am actively looking for jobs for the role of SDE.
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danish-belal/)
+- 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/danish-belal/" target="_blank">LinkedIn</a>
 - 📚 &nbsp; When I am free, Family Time. 
 <br>
 

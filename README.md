@@ -30,8 +30,9 @@
 <!-- ### 📊 Github Stats -->
 
 <div align="center">
+ 
+[![wakatime](https://wakatime.com/badge/user/018e1a00-e917-47e4-ab12-f74f7fda5481.svg)](https://wakatime.com/@018e1a00-e917-47e4-ab12-f74f7fda5481)
 
-[![wakatime](https://wakatime.com/badge/user/018e1a00-e917-47e4-ab12-f74f7fda5481/project/018e1dd3-cfd0-4f2e-8f12-e3efd6960e8f.svg)](https://wakatime.com/badge/user/018e1a00-e917-47e4-ab12-f74f7fda5481/project/018e1dd3-cfd0-4f2e-8f12-e3efd6960e8f)
 
 <figure><embed src="https://wakatime.com/share/@018e1a00-e917-47e4-ab12-f74f7fda5481/6d226285-f78f-4db3-8e5a-9e68cb1d86b2.svg"></embed></figure>
 

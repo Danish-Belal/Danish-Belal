@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Developer** | 💳 Payment Systems | 🌐 Scalable Web Architectures  
 
-I design, build, and scale **secure, high-performance systems**, with a strong focus on **payment gateways, financial workflows, and real-time applications**. I enjoy solving complex backend problems and building products that handle money, scale, and users reliably.
+I design, build, and scale **secure, high-performance systems**, with a strong focus on **payment gateways, financial workflows, and real-time applications**. I enjoy solving complex backend problems and building products that handle **money, scale, and reliability**.
 
 ---
 
@@ -12,7 +12,7 @@ I design, build, and scale **secure, high-performance systems**, with a strong f
 - 💼 Working as a **Senior Software Developer**
 - 🧠 Strong experience in **backend systems, queues, settlements, and APIs**
 - 🤝 Open to collaborating on **impactful projects & student-driven initiatives**
-- 💬 Ask me anything about **system design, backend, payments, or JavaScript**
+- 💬 Ask me about **system design, backend, payments, or JavaScript**
 - 📚 When I’m free: **Family time & learning new tech**
 
 📫 **Reach me:**  
@@ -23,67 +23,71 @@ I design, build, and scale **secure, high-performance systems**, with a strong f
 
 ## 🛠️ Tech Stack  
 
-**Languages**  
+### Languages  
 - JavaScript, TypeScript, Core Java, Python  
 
-**Frontend**  
+### Frontend  
 - React, Next.js, Tailwind CSS  
 
-**Backend**  
+### Backend  
 - Node.js, Express, Laravel  
-- REST APIs, Webhooks, Auth Systems  
+- REST APIs, Webhooks, Authentication Systems  
 
-**Databases & Infra**  
+### Databases & Infrastructure  
 - PostgreSQL, Redis  
 - Docker, Kubernetes, AWS  
 - CI/CD, Nginx  
 
-**Specialization**  
-- Payment Gateways  
-- Settlement & Reconciliation Systems  
-- Queue & Background Jobs  
+### Specialization  
+- Payment Gateways & Wallet Systems  
+- Settlement & Reconciliation Flows  
+- Queue & Background Job Processing  
 - Real-time Notifications (FCM, WebSockets)
 
 ---
 
-## 📊 GitHub Analytics  
+## ⏱️ Coding Time  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danish-Belal&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-Belal&layout=compact&theme=radical" height="170"/>
+  <a href="https://wakatime.com/@018e1a00-e917-47e4-ab12-f74f7fda5481">
+    <img src="https://wakatime.com/badge/user/018e1a00-e917-47e4-ab12-f74f7fda5481.svg" />
+  </a>
 </p>
+
+---
+
+## 📊 Professional Highlights  
+
+- ⭐ 50+ Open-source contributions  
+- 🔁 15+ merged pull requests  
+- 💳 Built payment systems handling **$50K+ in weekly transactions**  
+- 🚀 Designed queue systems processing **40K+ background jobs**  
+- 🔔 Implemented scalable real-time notification systems  
 
 ---
 
 ## 🐍 Contribution Activity  
 
-![snake gif](https://github.com/Danish-Belal/Danish-Belal/blob/output/github-snake-dark.svg)
-
----
-
-## ⏱️ Coding Activity  
-
 <p align="center">
-  <a href="https://wakatime.com/@018e1a00-e917-47e4-ab12-f74f7fda5481">
-    <img src="https://wakatime.com/badge/user/018e1a00-e917-47e4-ab12-f74f7fda5481.svg"/>
-  </a>
+  <img src="https://github.com/Danish-Belal/Danish-Belal/blob/output/github-snake-dark.svg" />
 </p>
-
-<p align="center">
-  <embed src="https://wakatime.com/share/@018e1a00-e917-47e4-ab12-f74f7fda5481/6d226285-f78f-4db3-8e5a-9e68cb1d86b2.svg"></embed>
-</p>
-
 
 ---
 
 ## 🎖️ Badges  
 
-[![Holopin](https://holopin.me/danish)](https://holopin.io/@danish)
+<p align="center">
+  <a href="https://holopin.io/@danish">
+    <img src="https://holopin.me/danish" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danish-Belal&style=flat-square&label=Profile+Views"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=Danish-Belal&style=flat-square&label=Profile+Views" 
+  />
 </p>
 
 ---

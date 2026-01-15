@@ -3,7 +3,7 @@
 - 🔭 &nbsp; I’m currently working on **building Payment Gateway**
 - 🤝 &nbsp;  I’m looking to collaborate on Projects which excite students.
 - 📫 &nbsp; How to reach me, you can email me at danishexplore019@gmail.com
-- 💻 &nbsp;I am actively looking for jobs for the role of SDE.
+- 💻 &nbsp;I am currently working as senior software Developer.
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/danish-belal/" target="_blank">LinkedIn</a>
 - 📚 &nbsp; When I am free, Family Time. 

@@ -1,44 +1,91 @@
-### Hi Y'all. 👋
+# Hi, I'm Danish Belal 👋  
 
-- 🔭 &nbsp; I’m currently working on **building Payment Gateway**
-- 🤝 &nbsp;  I’m looking to collaborate on Projects which excite students.
-- 📫 &nbsp; How to reach me, you can email me at danishexplore019@gmail.com
-- 💻 &nbsp;I am currently working as senior software Developer.
-- 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/danish-belal/" target="_blank">LinkedIn</a>
-- 📚 &nbsp; When I am free, Family Time. 
-<br>
+🚀 **Senior Software Developer** | 💳 Payment Systems | 🌐 Scalable Web Architectures  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+I design, build, and scale **secure, high-performance systems**, with a strong focus on **payment gateways, financial workflows, and real-time applications**. I enjoy solving complex backend problems and building products that handle money, scale, and users reliably.
 
-[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish-Belal&count_private=true&show_icons=true&theme=radical)](https://github.com/Danish-Belal))
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-Belal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 👨‍💻 About Me  
 
-<hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Danish-Belal&style=plastic&label=PROFILE+VIEWS" alt="Danish Belal" /> </p>
+- 🔭 Currently building **Payment Gateway & FinTech systems**
+- 💼 Working as a **Senior Software Developer**
+- 🧠 Strong experience in **backend systems, queues, settlements, and APIs**
+- 🤝 Open to collaborating on **impactful projects & student-driven initiatives**
+- 💬 Ask me anything about **system design, backend, payments, or JavaScript**
+- 📚 When I’m free: **Family time & learning new tech**
 
-<br>
+📫 **Reach me:**  
+- Email: **danishexplore019@gmail.com**  
+- LinkedIn: [linkedin.com/in/danish-belal](https://www.linkedin.com/in/danish-belal/)
 
+---
 
-## Snack eating my Contribution Graph
+## 🛠️ Tech Stack  
+
+**Languages**  
+- JavaScript, TypeScript, Core Java, Python  
+
+**Frontend**  
+- React, Next.js, Tailwind CSS  
+
+**Backend**  
+- Node.js, Express, Laravel  
+- REST APIs, Webhooks, Auth Systems  
+
+**Databases & Infra**  
+- PostgreSQL, Redis  
+- Docker, Kubernetes, AWS  
+- CI/CD, Nginx  
+
+**Specialization**  
+- Payment Gateways  
+- Settlement & Reconciliation Systems  
+- Queue & Background Jobs  
+- Real-time Notifications (FCM, WebSockets)
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danish-Belal&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-Belal&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity  
+
 ![snake gif](https://github.com/Danish-Belal/Danish-Belal/blob/output/github-snake-dark.svg)
 
+---
+
+## ⏱️ Coding Activity  
+
+<p align="center">
+  <a href="https://wakatime.com/@018e1a00-e917-47e4-ab12-f74f7fda5481">
+    <img src="https://wakatime.com/badge/user/018e1a00-e917-47e4-ab12-f74f7fda5481.svg"/>
+  </a>
+</p>
+
+<p align="center">
+  <embed src="https://wakatime.com/share/@018e1a00-e917-47e4-ab12-f74f7fda5481/6d226285-f78f-4db3-8e5a-9e68cb1d86b2.svg"></embed>
+</p>
 
 
-<!-- ### 📊 Github Stats -->
+---
 
-<div align="center">
- 
-[![wakatime](https://wakatime.com/badge/user/018e1a00-e917-47e4-ab12-f74f7fda5481.svg)](https://wakatime.com/@018e1a00-e917-47e4-ab12-f74f7fda5481)
+## 🎖️ Badges  
 
+[![Holopin](https://holopin.me/danish)](https://holopin.io/@danish)
 
-<figure><embed src="https://wakatime.com/share/@018e1a00-e917-47e4-ab12-f74f7fda5481/6d226285-f78f-4db3-8e5a-9e68cb1d86b2.svg"></embed></figure>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Danish-Belal&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danish-Belal&style=flat-square&label=Profile+Views"/>
+</p>
 
- </div>
+---
 
-
-[![An image of @danish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danish)](https://holopin.io/@danish)
+⭐ *Always building. Always learning. Open to meaningful conversations & collaborations.*
